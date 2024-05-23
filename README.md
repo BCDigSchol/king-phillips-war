@@ -2,7 +2,7 @@
 
 *Jekyll website for the King Phillip's War Project @ [Boston College](https://bc.edu)*
 
-By UNCERTAIN
+By Kevin March
 
 ## About
 

@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "King Phillips War"
+title: "King Phillip's War"
 authors:
-  - family-names: UNCERTAIN
-    given-names: UNCERTAIN
+  - family-names: March
+    given-names: Kevin
 abstract: "Jekyll site for the King Phillip's War Project @ Boston College"
 version: 0.0.1
 date-released: "2024-4-9"
